@@ -1,6 +1,6 @@
 cask "orchestratinator" do
-  version "0.15.1"
-  sha256 "64d6b2b0b47763425caa9fd1d32f3a962cb37a77731c1ecf1f25b79e0ff2467f"
+  version "0.15.2"
+  sha256 "6fc5163ce64cff2e652e16a53707bcc1ae67a80b4c5a2139a62a6bcc5c84f94f"
 
   url "https://appideas-mcp-orchestratinator-release.sfo3.cdn.digitaloceanspaces.com/desktop-app/darwin/arm64/Orchestratinator-#{version}-arm64.dmg"
   name "Orchestratinator"
